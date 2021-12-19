@@ -9,7 +9,7 @@ var songName = $('.song-details p.name')
 var singer = $('.song-details .artist')
 var isPlay = false
 var moreMusic = $('#more-music')
-var currentIndex = 2
+var currentIndex = 0
 
 
 var app = {
